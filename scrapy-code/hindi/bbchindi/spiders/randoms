@@ -1,0 +1,7 @@
+import scrapy
+
+class ImageSpider(scrapy.Spider):
+    start_urls = ['https://ichef.bbci.co.uk/news/640/cpsprodpb/1392A/production/_120207108_gettyimages-1234758138.jpg']
+
+    def parse(self, response):
+        
