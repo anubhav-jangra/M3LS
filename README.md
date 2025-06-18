@@ -18,7 +18,7 @@ primaryClass={cs.CL}
 citation bibtex will change post the conference.
 
 ## GOOGLE DRIVE LINK TO DATASET
-You can access and download zipped files of various languages [here](https://drive.google.com/drive/folders/109esyywmS7iud8Fz7AK-Us21bWoVd2rx?usp=sharing).
+You can access and download zipped files of various languages [here](https://1drv.ms/f/c/56ffa3533d7e811d/EjDJkvrgTaBFkrcZ9CfchlYBuASMDAciqf-TLwxPtTPhKA?e=zWRsbx).
 
 ## CODE TO WEB CRAWL DATASET
 - Kindly clone the repo or download zip of the repo.
